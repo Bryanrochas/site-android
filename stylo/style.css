@@ -47,6 +47,7 @@ header > h1 {
        font-size: 3em;
        margin-bottom: 20px;
        text-shadow: 2px 2px 0px black;
+       margin: auto;
 }
 header > p {
     color: white;
@@ -55,7 +56,8 @@ header > p {
     max-width:700px;
     padding-right: 10px;
     padding-left: 10px;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 2px 2px 0px rgb(14, 13, 13);
+    margin: auto;
 }
 nav{
     background-color: var(--cor5);
@@ -67,7 +69,7 @@ nav > a{
     padding: 10px;
     text-decoration: none;
     font-weight: bolder;
-    transition-duration: 5s;}
+}
 
 
 nav > a:hover {  
